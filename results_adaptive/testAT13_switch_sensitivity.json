@@ -1,0 +1,39 @@
+{
+    "DS_0.0001": {
+        "delta_switch": 0.0001,
+        "mean_e_final": -10.09724534182129,
+        "std_e_final": 0.00629235099290464,
+        "mean_t_switch": -1.0,
+        "frac_triggered": 0.0
+    },
+    "DS_0.0005": {
+        "delta_switch": 0.0005,
+        "mean_e_final": -10.09724534182129,
+        "std_e_final": 0.00629235099290464,
+        "mean_t_switch": -1.0,
+        "frac_triggered": 0.0
+    },
+    "DS_0.001": {
+        "delta_switch": 0.001,
+        "mean_e_final": -10.09724534182129,
+        "std_e_final": 0.00629235099290464,
+        "mean_t_switch": -1.0,
+        "frac_triggered": 0.0
+    },
+    "DS_0.005": {
+        "delta_switch": 0.005,
+        "mean_e_final": -10.096233199799823,
+        "std_e_final": 0.008550038780308786,
+        "mean_t_switch": 91.0,
+        "frac_triggered": 0.1
+    },
+    "DS_0.01": {
+        "delta_switch": 0.01,
+        "mean_e_final": -10.090772112035147,
+        "std_e_final": 0.015015851192637455,
+        "mean_t_switch": 82.0,
+        "frac_triggered": 0.4
+    },
+    "n_qubits": 8,
+    "n_layers": 8
+}

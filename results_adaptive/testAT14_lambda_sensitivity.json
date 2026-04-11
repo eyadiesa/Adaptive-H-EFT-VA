@@ -1,0 +1,40 @@
+{
+    "LAM_0.005": {
+        "lambda": 0.005,
+        "mean_e_final": -10.09724534182129,
+        "std_e_final": 0.00629235099290464,
+        "mean_sigma_final": 0.0015625,
+        "clamped": false
+    },
+    "LAM_0.01": {
+        "lambda": 0.01,
+        "mean_e_final": -10.09724534182129,
+        "std_e_final": 0.00629235099290464,
+        "mean_sigma_final": 0.0015625,
+        "clamped": false
+    },
+    "LAM_0.02": {
+        "lambda": 0.02,
+        "mean_e_final": -10.09724534182129,
+        "std_e_final": 0.00629235099290464,
+        "mean_sigma_final": 0.0015625,
+        "clamped": false
+    },
+    "LAM_0.05": {
+        "lambda": 0.05,
+        "mean_e_final": -10.09724534182129,
+        "std_e_final": 0.00629235099290464,
+        "mean_sigma_final": 0.0015625,
+        "clamped": false
+    },
+    "LAM_0.1": {
+        "lambda": 0.1,
+        "mean_e_final": -10.09724534182129,
+        "std_e_final": 0.00629235099290464,
+        "mean_sigma_final": 0.0015625,
+        "clamped": false
+    },
+    "n_qubits": 8,
+    "n_layers": 8,
+    "sigma_crit": 0.0625
+}

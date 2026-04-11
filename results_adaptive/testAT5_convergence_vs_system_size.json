@@ -1,0 +1,51 @@
+{
+    "N2_L2": {
+        "aheft_final": -2.431241979864228,
+        "static_final": -1.9739150857542258,
+        "hea_final": 2.289856191307207,
+        "n_qubits": 2,
+        "n_layers": 2
+    },
+    "N4_L2": {
+        "aheft_final": -5.006230746421342,
+        "static_final": -4.062708403713782,
+        "hea_final": -2.5338395142308707,
+        "n_qubits": 4,
+        "n_layers": 2
+    },
+    "N6_L2": {
+        "aheft_final": -7.5121060046822725,
+        "static_final": -6.004862670823464,
+        "hea_final": -0.592478661076735,
+        "n_qubits": 6,
+        "n_layers": 2
+    },
+    "N8_L2": {
+        "aheft_final": -10.013378882747741,
+        "static_final": -7.975224470963299,
+        "hea_final": 0.7204297609264783,
+        "n_qubits": 8,
+        "n_layers": 2
+    },
+    "N10_L2": {
+        "aheft_final": -12.525273488762553,
+        "static_final": -9.947181142343837,
+        "hea_final": 2.482097749962704,
+        "n_qubits": 10,
+        "n_layers": 2
+    },
+    "N12_L2": {
+        "aheft_final": -15.026698985300323,
+        "static_final": -11.97438104135508,
+        "hea_final": -0.03300213670255124,
+        "n_qubits": 12,
+        "n_layers": 2
+    },
+    "N14_L2": {
+        "aheft_final": -17.538508412949202,
+        "static_final": -14.004629633357125,
+        "hea_final": -1.327360565672549,
+        "n_qubits": 14,
+        "n_layers": 2
+    }
+}
